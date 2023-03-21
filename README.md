@@ -1,2 +1,2 @@
 # Tourist
-Tourist sit develop with the help of react
+Tourist site develope with the help of react
